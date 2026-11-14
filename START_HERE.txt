@@ -1,0 +1,37 @@
+FRAUDBEACON AI — QUICK START
+============================
+
+1. Install Python 3.11 or 3.12:
+   https://www.python.org/downloads/windows/
+
+2. During installation, enable:
+   Add Python to PATH
+
+3. Extract this ZIP to a normal folder.
+   Do not run it from inside the ZIP preview.
+
+4. Double-click:
+   START_FRAUDBEACON.bat
+
+5. On first launch, the script creates an isolated Python environment
+   and installs the required libraries. An internet connection is needed
+   for the first setup only.
+
+6. The browser should open:
+   http://127.0.0.1:8501
+
+7. Keep the black command window open while using the app.
+   On later sessions, double-click START_FRAUDBEACON.bat again.
+
+COMPETITION SUBMISSION
+----------------------
+Share the public GitHub repository as the code link. Submit the one-page
+write-up, select AI + Finance, enter the exact team details, credit all
+sources and AI tools, and optionally provide a two-minute demo video.
+A public hosted app is not required. See docs/SUBMISSION_CHECKLIST.md.
+
+PRIVACY
+-------
+Use only fictional samples in public demonstrations. Do not enter real
+passwords, OTPs, PINs, payment-card data, account identifiers, or private
+messages. The app is intended for local demonstration and research triage.
